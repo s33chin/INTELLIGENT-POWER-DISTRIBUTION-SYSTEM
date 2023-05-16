@@ -1,5 +1,5 @@
 /* controll logic for "Intelligent Power Distribution and Load Balancing using Arduino"
-Author: Courtney Hunter 
+Author: Shane Chin 
 */
 #include <Irms_Calc.h>  //https://github.com/Warlib1975/Irms_calc
 #include <LiquidCrystal.h>
